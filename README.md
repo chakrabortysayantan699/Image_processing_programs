@@ -21,3 +21,7 @@
  **After running program in the video we save all the frame in a folder and then we read those frame in reverse order**
  
  [![ watch video](https://github.com/chakrabortysayantan699/Image_processing_programs/blob/main/Output_images/robin_frame1268.jpg)](https://drive.google.com/file/d/1g-8cEFa-p_3IzkQ8Rx_FB7unSWwg0sMJ/view?usp=sharing)
+
+## 3. Color palette using trackbar in opencv
+
+<img src="https://github.com/chakrabortysayantan699/Image_processing_programs/blob/main/Output_images/ksnip_20220504-125742.png">
